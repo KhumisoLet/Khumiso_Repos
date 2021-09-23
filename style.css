@@ -1,0 +1,8 @@
+h1{
+  color: grey
+}
+body,html{
+  height: 90vh;
+  display: grid;
+  place-items: center;
+}
